@@ -1,0 +1,7 @@
+camera:
+  fx: 1000
+  fy: 1000
+  cx: 960
+  cy: 540
+  width: 1920
+  height: 1080
